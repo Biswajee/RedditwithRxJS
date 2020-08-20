@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rxjsplay"
+    }
+  },
+  "defaultProject": "rxjsplay",
+  "cli": {
+    "analytics": "3769f3a1-d39f-4713-9da2-cdbba65ba5eb"
+  }
 }
