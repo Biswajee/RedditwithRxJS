@@ -1,6 +1,6 @@
 <header>
 <input type="text" [(ngModel)]="searchString" 
-(ngModelChange)="queryAPI($event)" placeholder="Search">
+(ngModelChange)="inputChanged($event)" placeholder="Search">
 <button (click)="searchString=''">Clear</button>
 </header>
 
